@@ -14,7 +14,7 @@ function uptimer () {
   setInterval(() => {
     phin({
       method: 'GET',
-      url: process.env.url
+      url: "https://www.blogger.com/profile/13365412355864642909"
     }, (err, res) => {
       const x = Date.now()
       if (res.statusCode === 200) {
