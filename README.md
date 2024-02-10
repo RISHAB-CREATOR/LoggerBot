@@ -1,6 +1,6 @@
 # Logger Uptimer 🚀
 
-Express Uptimer is a simple Node.js application that pings a specified URL at regular intervals to check its availability. It's designed to restart itself after reaching a certain number of pings.
+Logger Uptimer is a simple Node.js application that pings a specified URL at regular intervals to check its availability. It's designed to restart itself after reaching a certain number of pings.
 
 ## Features
 
