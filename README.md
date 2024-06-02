@@ -20,7 +20,7 @@ Before running the application, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/RISHAB-CREATOR/BloggerBot
+   git clone https://github.com/RISHAB-CREATOR/LoggerBot
    
 2. cd LoggerBot
 3. npm install
